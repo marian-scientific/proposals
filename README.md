@@ -1,2 +1,7 @@
 # proposals
-project propositions
+
+This repository tracks project proposals for Marian Scientific. A "Request for Proposals" (RFP) is a document outlining the objectives of a project, seeking a number of competitive proposals (bids) from organization members. Records of past and present RFPs are archived alongside all corresponding proposals submitted. A productive proposal is succinct [MP00](https://github.com/marian-scientific/wiki/wiki/MP00-%E2%80%90-Mission-Statement), no more than 500 words, but containing the following information:
+
+  * Planned schedule of all intermediate and final deliverables. Contract award preference will be given to proposals with aggressive schedules. Schedules must adhere to [MP02](https://github.com/marian-scientific/wiki/wiki/MP02-%E2%80%90-Schedule) and [MP03](https://github.com/marian-scientific/wiki/wiki/MP03-%E2%80%90-Punctuality).
+  * Estimated budget for materials and labor. Contract award preference will be given to proposals with competitive budgets.
+  * Efficient outline of the proposed solution to the problem outlined in the RFP. Contract award preference will be given to sensible and coherent action plans, especially those that are novel in nature [MP05](https://github.com/marian-scientific/wiki/wiki/MP05-%E2%80%90-Generation-over-Duplication).
