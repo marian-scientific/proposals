@@ -9,4 +9,4 @@ This repository tracks project proposals for Marian Scientific. A "Request for P
   Final terms of the contract award are subject to approval and may deviate from those listed in the proposal.
 
 # Pending RFPs
-  * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) 
+  * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) deadline: February 21, 2025
