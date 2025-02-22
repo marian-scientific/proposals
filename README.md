@@ -11,4 +11,4 @@ This repository tracks project proposals for Marian Scientific. A "Request for P
 # Pending RFPs
 
 # Expired RFPs
-  * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) deadline: February 21, 2025
+  * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) deadline: February 21, 2025; [Downselected Proposal](https://github.com/marian-scientific/proposals/blob/Christ/RFP001%20-%20HOHMO/submitted%20proposals/EVALUATION_CRITERIA.md)
