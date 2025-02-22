@@ -13,7 +13,7 @@ jar can be harness to demonstrate a human perceptible phenomenon.
 
 In the traditional leyden jar, the chain served as the electrode to charge the inner conductor. This feature itself can be utilized to demonstrate observable phenomenon itself.
 
-![Iron Jar Concepts](.Resources/IRON-JAR_figures001.png "Iron Jar Concepts")
+![Iron Jar Concepts](./Resources/IRON-JAR_figures001.png "Iron Jar Concepts")
 
 Below are the timeline, parts list,and budget and are as flexible as needed. The labor rate is posted below and is discounted. The development time is estimated to be about 4 weeks.
 
