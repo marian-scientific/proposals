@@ -19,8 +19,8 @@ This document records the result of the proposal downselect for the Human-Observ
 | Success Chance (10)        | 8                 |                   |
 | Design Novelty (10)        | 8                 |                   |
 | Proposal Quality (5)       | 5                 |                   |
-| Providential Rating* (20)  | TBD               |                   |
-| Total (50)                 | TBD               |                   |
+| Providential Rating* (20)  | 1 ✝               |                   |
+| Total (50)                 | 26                |                   |
 
 *Rating determined by D20 roll, to allow for downselect entropy and/or divine selection. The rating is certified at the time of the roll by the entrant using the ✝ symbol and the Gloria Patri prayer. Obviously, this is the highest standard of certification.
 
