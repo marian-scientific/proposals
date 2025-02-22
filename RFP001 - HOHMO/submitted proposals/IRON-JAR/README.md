@@ -1,4 +1,4 @@
-# IRON JAR - Iron fillings in a Leyden Jar as a Solutions to Human-Observable Homemade Microcontroller Output
+# IRON JAR - Iron fillings in a Leyden Jar as a Solution to Human-Observable Homemade Microcontroller Output
 *Anthony Fernandez*
 
 A microcontroller’s GPIO does not have the capabilities to drive large equipment or devices that require lots of power, but with properties of electrostatics
@@ -12,4 +12,6 @@ accumulated onto the jar. One of the severe limitations of the GPIO is the limit
 jar can be harness to demonstrate a human perceptible phenomenon.
 
 In the traditional leyden jar, the chain served as the electrode to charge the inner conductor. This feature itself can be utilized to demonstrate observable phenomenon itself.
+
+![Iron Jar Concepts](RFP001 - HOHMO/submitted proposals/IRON-JAR/Resources/IRON-JAR_figures001.png)
 
