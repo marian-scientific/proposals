@@ -1,5 +1,5 @@
 # IRON JAR - Iron fillings in a Leyden Jar as a Solution to Human-Observable Homemade Microcontroller Output
-*Anthony Fernandez*
+*Anthony Remark*
 
 A microcontroller’s GPIO does not have the capabilities to drive large equipment or devices that require lots of power, but with properties of electrostatics
 the Marian Electrical Innovations team can still leverage these limited capabilities. Amplifirer ciruits and Voltage multipier circuits all require semiconductor 
