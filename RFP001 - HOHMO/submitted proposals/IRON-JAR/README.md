@@ -13,5 +13,46 @@ jar can be harness to demonstrate a human perceptible phenomenon.
 
 In the traditional leyden jar, the chain served as the electrode to charge the inner conductor. This feature itself can be utilized to demonstrate observable phenomenon itself.
 
-![Iron Jar Concepts](RFP001 - HOHMO/submitted proposals/IRON-JAR/Resources/IRON-JAR_figures001.png)
+![Iron Jar Concepts](.Resources/IRON-JAR_figures001.png "Iron Jar Concepts")
+
+Below are the timeline, parts list,and budget and are as flexible as needed. The labor rate is posted below and is discounted. The development time is estimated to be about 4 weeks.
+
+#### Timeline:
+
+  * Feb 21 - Proposal submitted
+  * Feb 22 - Potential contract awarded
+  * Feb 27 - Sourced all of the parts
+  * March 2 - Initial prototype(s) completed
+  * March 9 - Final prototype completed
+  * March 16 - Report completed
+
+
+#### Budget:
+
+Materials:
+  * Distilled water: $3
+  * Copper Foil Tape: $10
+  * Thin copper plate (which may serve as an alternate electrode): $8
+  * Fine Iron Filings 100g: $10
+  * 1/2 in x feet PVC pipe: $3
+  * Paper Towels: (in stock)
+  * 200 grit sand paper: $8
+  * Glass Rod: $5 (estimate)
+  * Table Salt: (in stock)
+  * Glass Jar: (in stock)
+  * Breadboard: $5
+  * Nails: (in stock)
+  * Nitrile Gloves: $7
+  * Texas Instruments Buffers: $10 ($1 each)
+
+Labor Budget:
+  * $15 /hour @ 4 hours/day @ 5 days/week @ 4 weeks = $1200
+  * labor discount offset for experience opportunity: ($1200)
+
+Total Budget: $64
+
+I look forward to working with any opporunities to collaborate and research projects at Marian Scientific regardless of any contract awarded.
+  
+
+
 
