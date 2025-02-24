@@ -24,7 +24,7 @@ This document records the result of the proposal downselect for the Human-Observ
 
 *Rating determined by D20 roll, to allow for downselect entropy and/or divine selection. To prevent score-fixing, this roll takes place AFTER all other evaluations are made. The rating is certified at the time of the roll by the entrant using the ✝ symbol and the Gloria Patri prayer. Obviously, this is the highest standard of certification.
 
-## Downselect Result: [LEVI](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO/submitted%20proposals/LEVI) & [IRON-JAR](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO/submitted%20proposals/LEVI)
+## Downselect Result: [LEVI](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO/submitted%20proposals/LEVI) & [IRON-JAR](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO/submitted%20proposals/IRON-JAR)
 
 #### Reasoning: 
 
