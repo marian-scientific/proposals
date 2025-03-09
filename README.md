@@ -9,6 +9,7 @@ This repository tracks project proposals for Marian Scientific. A "Request for P
   Final terms of the contract award are subject to approval and may deviate from those listed in the proposal.
 
 # Pending RFPs
+  * [RFP002 - MCA](https://github.com/marian-scientific/proposals/tree/Christ/RFP002%20-%20MCA) deadline: March 16, 2025
 
 # Expired RFPs
   * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) deadline: February 21, 2025; [Downselected Proposal](https://github.com/marian-scientific/proposals/blob/Christ/RFP001%20-%20HOHMO/submitted%20proposals/EVALUATION_CRITERIA.md)
