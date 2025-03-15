@@ -7,7 +7,7 @@ This Request for Proposals refers to the MCA (Minimum Complexity Alarm) prototyp
 1. relatively accurate track of time: timing accuracy within +/-10 min over 12 hours, to be determined by experimental test
 2. prescribed time: a time/delay that is pre-determined and can be "hard" set into the design, not necessarily needing to be adjustable by the end-user
 
-Proposals for this project will be accepted until midnight (UTC-5) on March 16th, 2025. To be considered, all proposals require:
+Proposals for this project will be accepted until midnight (UTC-4) on March 16th, 2025. To be considered, all proposals require:
 
   * a preliminary schedule indicating dates for all intermediate and final deliverables
   * an estimated program budget with line items for individual raw materials and design/fabrication labor
