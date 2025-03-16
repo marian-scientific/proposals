@@ -12,6 +12,7 @@ The concepts were selected to provide Marian Scientific:
 * frame structure construction competency
 * water evaporation data
 * LDR data
+* primitive moisture sensor experience
 
 The concepts were selected to increase my own exposure to:
 * precise timing circuits & counter ICs
