@@ -1,4 +1,4 @@
-# VTBD - Variable Time Ball Drop
+# VTBD - Variable-Time Ball Drop
 *Matt DiPalma, AMDG*
 
 One common usage of an alarm is to wake its user after a night of sleep, giving them enough time to get ready for their day. This is the theme for the proposed solutions below. For this simple purpose, it is not necessary for the alarm to sound at an atomically-precise moment, but instead, roughly indicate an appropriate wake-up time. Personally, I am an extremely light sleeper, so even a brief, quiet alarm would be effective at waking me up.
