@@ -3,7 +3,7 @@
 
 One common usage of an alarm is to wake its user after a night of sleep, giving them enough time to get ready for their day. This is the theme for the proposed solutions below. For this simple purpose, it is not necessary for the alarm to sound at an atomically-precise moment, but instead, roughly indicate an appropriate wake-up time. Personally, I am an extremely light sleeper, so even a brief, quiet alarm would be effective at waking me up.
 
-This proposal includes a modular output indicator that can be interchangeably connected to three potential time-delay estimating circuits. The concepts are ranked by their likelihood of success, from "safe" to "target" to "stretch", and leverage a wide range of phenomenon to track the passage of time.
+This proposal includes a modular output indicator that can be interchangeably connected to three potential time-delay estimating circuits. The concepts are ranked by their likelihood of success, from "safe" to "target" to "stretch", and leverage a wide range of phenomena to track the passage of time.
 
 ![P002 Concepts](./resources/P002_figures.png "P002 Concepts")
 
