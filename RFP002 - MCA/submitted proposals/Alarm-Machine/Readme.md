@@ -10,8 +10,8 @@ We have several approaches to solving the MCA (Minimum Complexity Alarm).
 
 # Approach 1
 We have a microcontroller integrated with electrical components like buzzards, LEDs, segment displays, Passive Infra-Red technology,
-2) magnetic reed switches, or/and GSM module(s). Buzzards, LED, and Segment displays act as actuators for the alarm. The actuators are
-3) activated by the code that also keeps track of time and sends information to the terminal display. 
+magnetic reed switches, or/and GSM module(s). Buzzards, LED, and Segment displays act as actuators for the alarm. The actuators are
+activated by the code that also keeps track of time and sends information to the terminal display. 
 
 PIR sensors detects motion and Magnetic Reed Switch can detect a door or window opening or a morning event. These approaches can be 
 negotiated and incorporated into the code. 
@@ -21,8 +21,8 @@ approach, but is estimated to be the most accurate of all the solutions in this 
 
 # Approach 2
 We use a Finite State Machine to create an alarm clock. This approach requires research investment. We use a lot of ICs like timers,
-3) crystal oscillators, ripple counters, latches, mixers. The finite state machine interfaces with actuators like in the first approach
-4) which include segment displays, buzzards, and LEDs.
+crystal oscillators, ripple counters, latches, mixers. The finite state machine interfaces with actuators like in the first approach
+which include segment displays, buzzards, and LEDs.
 
 We surmise the user interface may use DIP switches or other similar devices to program the alarm into the FSM. With the number of ICs, 
 this approach works around the need for a microcontroller and the complexity of manufacture that comes with it.
