@@ -68,8 +68,8 @@ of ICs and Actuators and Breadboards are required and estimated to cost around $
 
 #### Labor:
 
-$15/hour @ 4 hours/day @ 5 days/week @ 5 weeks = $1500
-labor discount offset for experience and knowledge gained: $1300
+ * $15/hour @ 4 hours/day @ 5 days/week @ 5 weeks = $1500
+ * labor discount offset for experience and knowledge gained: $1300
 
 
 Total budget: $250 - $320
