@@ -45,8 +45,8 @@ Material budget:
   * unforeseen expenses allowance: $10
 
 Labor budget:
-  * $15/hour @ 4 hours/day @ 3 days/week @ 4 weeks = $720
-  * labor discount offset for experience gained: ($520)
+  * $15/hour @ 4 hours/day @ 3 days/week @ 5 weeks = $900
+  * labor discount offset for experience gained: ($700)
 
 Total budget: $250
 
