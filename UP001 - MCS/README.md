@@ -1,6 +1,7 @@
 # Unsolicited Proposal 001 - Minimum Complexity Switch
 
 *Proposed April 9, 2025*
+
 *Matt DiPalma, AMDG*
 
 This is an unsolicited proposal for the design, build, and validation of a mechanical switch capable of opening and closing an electrical circuit.
