@@ -8,6 +8,12 @@ This is an unsolicited proposal for the design, build, and validation of a mecha
 
 The minimum complexity switch (MCS) will be producible from as much naturally occuring, unprocessed raw materials, like wood, as possible, with only the minimum amount of electrical components required to serve the purpose of an electrically-conductive switch.
 
+This project will benefit the organization in the following ways:
+* More vertical integration of future minimally-complex designs, not requiring a purchased component
+* Insulation from supply chain disruptions
+* More experience processing harvested eco-friendly materials
+* Prototype and production hardware for use on follow-on projects.
+
 The completion of this project requires:
 * A formally-issued project ID number
 * A non-advocate third-party technical lead to oversee the project
