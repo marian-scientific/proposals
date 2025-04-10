@@ -21,4 +21,8 @@ The completion of this project requires:
 
 If the above requirements are granted, I will meet with the appointed technical lead to discuss follow-on actions, schedule, proposed design, and validation test plan.
 
-## Proposal Status: Not yet reviewed 
+## Proposal Status: Approved
+
+Appointed Technical Lead: Anthony Remark
+Issued project ID #: 03006
+Approved budget: $0.00
