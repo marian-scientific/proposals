@@ -23,6 +23,6 @@ If the above requirements are granted, I will meet with the appointed technical 
 
 ## Proposal Status: Approved
 
-Appointed Technical Lead: Anthony Remark
-Issued project ID #: 03006
-Approved budget: $0.00
+* Appointed Technical Lead: Anthony Remark
+* Issued project ID #: 03006
+* Approved budget: $0.00
