@@ -8,7 +8,7 @@ A sample template of the codebase and documentation will be provided in order to
 
 No budgets need be submitted for this project. The organization will award $50 per completely documented microcontroller platform on a first come, first serve basis.
 
-No schedule need be submitted for this project. The absolute deadline for submissions is June 1st, 2025.
+No schedule need be submitted for this project. The absolute deadline for final project submissions is June 1st, 2025.
 
 Proposals for this project will be accepted until midnight (UTC-4) on May 7th, 2025. To be considered, all proposals require:
 
