@@ -1,24 +1,19 @@
 # RFP003 - MS
 
-# COPY OF OLD DOCUMENT, NOT YET UPDATED
+posted April 28, 2025
 
-posted April 23, 2025
+This Request for Proposals refers to the MS (Microcontroller Survey) investigation, which will gather information, documentation, and a small sample codebase representing a minimal functional usage of a hopefully large variety of microcontroller devices. All devices are permissbible from simple DIP-8 microcontrollers,to fully populated evaluation boards, from ancient devices, to common dev boards. The deliverable for each is a small codebase representing usage of the device in a way commensurate with its capabilities, uploaded to a specific repository, including a documentation of the device alongside a step-by-step process of setting up and using a minimal Linux tool chain to program/interact with it. A minimal tool chain is one that does not require an IDE to write, compile, or transmit data of any kind onto the device, and instead uses exclusively command-line tools.
 
-This Request for Proposals refers to the MS (Microcontroller Survey) investigation, 
+A sample template of the codebase and documentation will be provided in order to standardize the deliverables across contractors and devices.
 
+No budgets need be submitted for this project. The organization will award $50 per completely documented microcontroller platform on a first come, first serve basis.
 
+No schedule need be submitted for this project. The absolute deadline for submissions is June 1st, 2025.
 
-which covers the design, fabrication & testing of a standalone device capable of keeping a relatively accurate track of time and producing an output, at a prescribed time, capable of waking a human. Designs featuring minimum complexity, novel approaches, user-friendliness, and high timing accuracy are preferred. There is no requirement that components be homemade from raw materials, but low-complexity solutions will tend to have fewer sophisticated components. This RFP is deliberately terse in order to foster a diversity of creative solutions. The following definitions apply:
+Proposals for this project will be accepted until midnight (UTC-4) on May 7th, 2025. To be considered, all proposals require:
 
-1. relatively accurate track of time: timing accuracy within +/-10 min over 12 hours, to be determined by experimental test
-2. prescribed time: a time/delay that is pre-determined and can be "hard" set into the design, not necessarily needing to be adjustable by the end-user
+* a list of the microcontrollers that you expect to evaluate. This is to prevent contractors from pursuing the same device. Feel free to go beyond the MCUs enumerated in your list, as time permits.
 
-Proposals for this project will be accepted until midnight (UTC-4) on March 16th, 2025. To be considered, all proposals require:
+After deciding which devices you will pursue, the proposal should take <5 minutes to write and submit.
 
-  * a preliminary schedule indicating dates for all intermediate and final deliverables
-  * an estimated program budget with line items for individual raw materials and design/fabrication labor
-  * a coherent solution with an actionable design and fabrication plan
-
-The ideal proposal will succinctly describe a novel solution with one or more illustrative graphics.
-
-All budgets, schedules, and solutions are subject to final approval, even after a proposal and contractor are selected. Results of the proposal downselect will be distributed to all applicants on March 17th, 2025.
+Proposals will be approved/rejected on May 8th, 2025, and results will be distributed to all applicants on that day.
