@@ -2,9 +2,13 @@
 
 posted April 28, 2025
 
-This Request for Proposals refers to the MS (Microcontroller Survey) investigation, which will gather information, documentation, and a small sample codebase representing a minimal functional usage of a hopefully large variety of microcontroller devices. All devices are permissbible from simple DIP-8 microcontrollers,to fully populated evaluation boards, from ancient devices, to common dev boards. The deliverable for each is a small codebase representing usage of the device in a way commensurate with its capabilities, uploaded to a specific repository, including a documentation of the device alongside a step-by-step process of setting up and using a minimal Linux tool chain to program/interact with it. A minimal tool chain is one that does not require an IDE to write, compile, or transmit data of any kind onto the device, and instead uses exclusively command-line tools.
+This Request for Proposals refers to the MS (Microcontroller Survey) investigation, which will gather information, documentation, and a small sample codebase representing a minimal functional usage of a hopefully large variety of microcontroller devices. All devices are permissible, from simple DIP-8 microcontrollers, to fully populated evaluation boards, from ancient devices, to common dev boards. The deliverable for each is a small codebase representing usage of the device in a way commensurate with its capabilities, uploaded to a specific repository, including basic documentation of the device alongside a step-by-step process of setting up and using a minimal Linux tool chain to program/interact with it. A minimal tool chain is one that does not require an IDE to write, compile, or transmit data of any kind onto the device, and instead uses exclusively command-line tools.
 
 A sample template of the codebase and documentation will be provided in order to standardize the deliverables across contractors and devices.
+
+The purpose of this project is to gather information regarding a large number of diverse microcontrollers to be potentially used in future projects, depending on their capabilities. The documentation and codebase submitted for each will serve as an instruction-guide for a new user to set up and begin using the device.
+
+There is no final report for this investigation. However, an accurate daily journal documenting progress as well as photographing board setups and detailing steps used to setup, debug, and successfully use each device, is required.
 
 No budgets need be submitted for this project. The organization will award $50 per completely documented microcontroller platform on a first come, first serve basis.
 
