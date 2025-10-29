@@ -10,6 +10,8 @@ This Request for Proposals refers to the MM1 (Mathematics Manipulatives 1) serie
 * comparisons like greater than, less than, or equal to,
 * comparisons like "10-more" "10-less" etc,
 * temporal comparisons "before", "after", "first", "last", etc,
+* coins and their values,
+* counting by 1, 2, 5 and 10,
 * basic 2D and 3D geometric primitives, and
 * small fractions (1/2, 1/4, "half", and "quarter").
 
