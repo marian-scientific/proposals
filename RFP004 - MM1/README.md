@@ -22,7 +22,7 @@ The purpose of this project is to design, manufacture, and ultimately distribute
 
 The manipulative can either be a (or multiple) static physical object, a kinematic physical assembly, some electronic/microcontroller experience, or some equivalent subject to organization approval.
 
-There is NO final report for this investigation. However, an accurate daily journal documenting progress as well as photographing board setups and detailing steps used to setup, debug, and successfully use each device, is required. A template for this will be distributed and must be strictly adhered to for proper recordkeeping.
+There is NO final report for this investigation. However, an accurate daily journal documenting progress is required. A template for this will be distributed and must be strictly adhered to for proper recordkeeping.
 
 No budgets need be submitted for this project. The organization will award $100 per manipulative designed, manufactured, and successfully tested. An additional $50 will be awarded after successful testing with a number of 6-7 year old children. An individual may submit any number of project ideas and may be credited accordingly as long as all manipulatives are approved and design complete by the deadline. Multiple versions of the same manipulative may be valuable for A-B testing with children but will not receive additional compensation.
 
