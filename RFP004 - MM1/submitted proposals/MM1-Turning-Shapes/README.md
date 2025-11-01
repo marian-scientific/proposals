@@ -15,6 +15,7 @@ When the puzzle is solved, the lamp should turn on. This can be accomplished via
 
 The Isometric view clearly shows the clear encasement. This doesn’t need to be curved as plexi-glass cut in a box shaped can be sufficient. 
 
+As with the other proposals I have writted, the manufacture will require some basics with wood working and construction. In either circumstance, The Electrical team is eager to achieve great things with this endeavor. 
 
 #### Schedule:
 
