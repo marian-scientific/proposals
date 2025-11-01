@@ -3,7 +3,7 @@
 
 This product exposes the concept of converting mechanical energy to electrical energy to 6-7 year old children. This product aims to introduce the conceptualization of energy conversion.
 
-![Light Bulb 01](./resources01/MM1_Light_Bulb_page_01.png)
+![Light Bulb 01](./resources01/MM1_Light_Bulb_Generator_page_01.png)
 
 A wooden wheel has magnets glued on, or maybe slots are cut out for the magnets to be put in place. The magnets Alternate North and South pole and they spin at the crank. A coil is fixed in place and is connected to a rectifier. This rectifier is connected to a lamp or LED or a visually appealing assortment of Lights. 
 
