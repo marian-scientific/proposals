@@ -14,7 +14,7 @@ The shaft of the smaller gear is connected to the shaft of the Rotor. The Rotor 
 
 The weakness of this would be to implement the gears with wood, many pieces would need to fix together nicely. If such a feat is unachievable then the previous design may be implemented. 
 
-####Schedule
+#### Schedule:
 
   * October 31, 2025 – Proposal submitted
   * November 5, 2025 – Designs Drafted in detail due
