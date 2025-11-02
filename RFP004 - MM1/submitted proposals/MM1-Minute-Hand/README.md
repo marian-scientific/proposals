@@ -12,7 +12,7 @@ The idea of the granularity dial serves as to manipulate the perceived difficult
 
 ![Minute Hand 02](./resources/MM1_Minute_Hand_page_02.png)
 
-The diagram represents the preliminarty idea for the circuit of the product. The encoder is connected to the minute hand and is electrically connected to the microcontroller. The programming on the controller processes the data from the encoder and then feeds the output to the display. Such electronics will be enclosed.
+The diagram above represents the preliminarty idea for the circuit of the product. The encoder is connected to the minute hand and is electrically connected to the microcontroller. The programming on the controller processes the data from the encoder and then feeds the output to the display. Such electronics will be enclosed.
 
 A clock is a great way to introduce the concept of numbers relating to eachother from a geometric point of view. This product serves as an aid to assist in the development of assessing numbers. 
 
