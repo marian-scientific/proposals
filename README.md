@@ -13,12 +13,13 @@ A productive proposal is succinct [MP00](https://github.com/marian-scientific/wi
   Final terms of the contract award are subject to approval and may deviate from those listed in the proposal.
 
 # Pending RFPs
-  * [RFP004 - MM1](https://github.com/marian-scientific/proposals/tree/Christ/RFP004%20-%20MM1) deadline: Oct 31, 2025;
+
 
 # Expired RFPs
   * [RFP001 - HOHMO](https://github.com/marian-scientific/proposals/tree/Christ/RFP001%20-%20HOHMO) deadline: February 21, 2025; [Downselected Proposal](https://github.com/marian-scientific/proposals/blob/Christ/RFP001%20-%20HOHMO/submitted%20proposals/EVALUATION_CRITERIA.md)
   * [RFP002 - MCA](https://github.com/marian-scientific/proposals/tree/Christ/RFP002%20-%20MCA) deadline: March 16, 2025; [Downselected Proposal](https://github.com/marian-scientific/proposals/blob/Christ/RFP002%20-%20MCA/submitted%20proposals/EVALUATION_CRITERIA.md)
   * [RFP003 - MS](https://github.com/marian-scientific/proposals/tree/Christ/RFP003%20-%20MS) deadline: May 7th, 2025
+  * [RFP004 - MM1](https://github.com/marian-scientific/proposals/tree/Christ/RFP004%20-%20MM1) deadline: Oct 31, 2025; [Downselected Proposal](https://github.com/marian-scientific/proposals/blob/Christ/RFP004%20-%20MM1/submitted%20proposals/README.md)
 
 # UPs
 * [UP001 - MCS](https://github.com/marian-scientific/proposals/tree/Christ/UP001%20-%20MCS) submitted: April 9, 2025
